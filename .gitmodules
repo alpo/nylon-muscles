@@ -1,0 +1,3 @@
+[submodule "pslab-python"]
+	path = pslab-python
+	url = https://github.com/fossasia/pslab-python.git
